@@ -15,15 +15,15 @@ export const keywords = [
   "SEO",
 ]
 export const urlimage = "/images/og-image.png"
-export const imagealt = "Rubix Studios Documentation"
-export const twitterhandle = "@RubixStudios"
+export const imagealt = "Legal Doc"
+export const twitterhandle = "@avocat"
 
 export const companyname = "Rubix Studios"
 export const companylink = "https://rubixstudios.com.au"
 
 export const branding = true
 export const rightsidebar = true
-export const feedbackedit = true
+export const feedbackedit = false
 export const tableofcontent = true
 export const totopscroll = true
 
