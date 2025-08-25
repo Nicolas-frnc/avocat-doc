@@ -244,7 +244,7 @@ export const Documents: Paths[] = [
           { title: "Procédure pénale simplifiée", href: "/guide-procedure-penale" },
         ],
       },
-      { title: "Glossaire juridique", href: "/glossaire-juridique" },
+      { title: "Glossaire juridique", href: "/glossaire-juridique-rp" },
       { title: "Checklists pratiques", href: "/checklists-pratiques" },
     ],
   },
