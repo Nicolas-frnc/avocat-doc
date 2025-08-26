@@ -7,6 +7,9 @@ Si vous avez des questions ou des difficultés, vous pouvez me contacter directe
 
 ---
 ### Mise a jour du projet
+#### Dernière version : `v0.0.3-beta` - 26/08/2025
+- Suivi via github project
+
 #### Dernière version : `v0.0.2-beta` - 25/08/2025
 
 - Mise en place general de la documentation
