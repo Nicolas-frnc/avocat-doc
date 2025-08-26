@@ -35,7 +35,7 @@ export const metadata = {
     },
 };
 export default function RootLayout({ children, }) {
-    return (<html lang="en">
+    return (<html lang="fr">
       {Settings.gtmconnected && <GoogleTagManager gtmId={Settings.gtm}/>}
       <body className={`${inter.variable} font-regular`}>
         <Providers>
