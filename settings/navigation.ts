@@ -2,12 +2,12 @@ import { PageRoutes } from "@/lib/pageroutes"
 
 export const Navigations = [
   {
-    title: "Docs",
+    title: "Docsss",
     href: `/docs${PageRoutes[0].href}`,
   },
   {
-    title: "Home",
-    href: "https://rubixstudios.com.au",
+    title: "Procédure Pénale",
+    href: "https://wiki.redstartrp.fr/fr/codeprocedurepenale",
     external: true,
   },
 ]

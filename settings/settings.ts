@@ -18,8 +18,8 @@ export const urlimage = "/images/og-image.png"
 export const imagealt = "Legal Doc"
 export const twitterhandle = "@avocat"
 
-export const companyname = "Rubix Studios"
-export const companylink = "https://rubixstudios.com.au"
+export const companyname = "Avocat docs"
+export const companylink = "google.com"
 
 export const branding = true
 export const rightsidebar = true
