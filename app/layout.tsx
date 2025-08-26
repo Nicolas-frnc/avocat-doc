@@ -53,7 +53,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
       {Settings.gtmconnected && <GoogleTagManager gtmId={Settings.gtm} />}
       <body className={`${inter.variable} font-regular`}>
         <Providers>
