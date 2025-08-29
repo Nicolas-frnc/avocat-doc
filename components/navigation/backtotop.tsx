@@ -38,7 +38,7 @@ export function BackToTop({ className }: { className?: string }): ReactElement {
       )}
     >
       <LuArrowUp className="mr-1 inline-block h-4 w-4 align-middle" />
-      <span>Scroll to top</span>
+      <span>Faire défiler vers le haut</span>
     </button>
   )
 }
