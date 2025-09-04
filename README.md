@@ -1,9 +1,8 @@
 # 📑 doc Avocat
-
+![img_1.png](img_1.png)
 ## Installation
 
 L’installation et l’utilisation suivent la procédure décrite dans la documentation du projet.  
-Si vous avez des questions ou des difficultés, vous pouvez me contacter directement sur **discord : `nicoullla`**.
 
 ---
 ### Mise a jour du projet
