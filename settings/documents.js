@@ -13,7 +13,7 @@ export const Documents = [
                 href: "/setup",
             },
             {
-                title: "Changelog",
+                title: "Note de version",
                 href: "/changelog",
             },
         ],
@@ -250,6 +250,9 @@ export const Documents = [
         heading: "Annexes",
         title: "Annexes",
         href: "/annexes",
-        items: [],
+        items: [
+            { title: "Consultation commis", href: "/affaire-commis" },
+
+        ],
     },
 ];
